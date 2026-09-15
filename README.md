@@ -1,6 +1,10 @@
 # 📝 Todo List Project
 My goal was to build a interactive Todo List application built using HTML, CSS, and JavaScript and make it interactive. 
 
+## 📸 Project Preview
+
+[Todo List Project Screenshot](todo-list-screenshot.png)
+
 # Features
 
 * To add and display the new tasks on the page. 
