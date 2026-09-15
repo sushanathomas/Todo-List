@@ -39,9 +39,9 @@ While building this project, I practiced:
 
 # 📂 Project Structure
 
-- `index.html` — Structure of the Todo List
-- `style.css` — Styling and layout
-- `main.js` — Todo List functionality
+- `TodoList.html` — Structure of the Todo List
+- `TodoList.css` — Styling and layout
+- `TodoList.js` — Todo List functionality
 
 ## 👩🏾‍💻 Author
 
