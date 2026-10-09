@@ -3,7 +3,8 @@ My goal was to build a interactive Todo List application built using HTML, CSS, 
 
 ## 📸 Project Preview
 
-[Todo List Project Screenshot](todo-list-screenshot.png)
+<img width="422" height="217" alt="Screenshot 2026-10-09 at 12 09 07 PM" src="https://github.com/user-attachments/assets/9119bd4d-c85e-46c7-88cc-ff1280fd1bc9" />
+
 
 # Features
 
