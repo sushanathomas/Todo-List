@@ -54,3 +54,33 @@ document.querySelector('#deleteBtn').addEventListener('click', clearAll);
 function clearAll() {
     document.querySelector('#taskList').innerHTML = '';
 };
+// const num = 2
+
+function twoPlus (num) {
+return num * 2; 
+}
+
+twoPlus(8)
+let a = 9; 
+let result = twoPlus(8); 
+let b = result + 10; 
+
+console.log(result);
+console.log(twoPlus(5)); 
+
+
+function pluralizer (player) {
+    return player + "s"; 
+}
+
+let resultTwo = pluralizer('bongi')
+
+
+
+function today (thursday) {
+    return thursday + 1; 
+}
+
+today(3); // calling the function
+
+let todayResults = today(3); 
