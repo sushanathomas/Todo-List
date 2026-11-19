@@ -1,7 +1,9 @@
 # 📝 Todo List Project
 My goal was to build a interactive Todo List application built using HTML, CSS, and JavaScript and make it interactive. 
 
-## 📸 Project Preview
+## 📸 Site Link & Project Preview
+
+Render: https://todo-list-ez42.onrender.com
 
 <img width="422" height="217" alt="Screenshot 2026-10-09 at 12 09 07 PM" src="https://github.com/user-attachments/assets/9119bd4d-c85e-46c7-88cc-ff1280fd1bc9" />
 
@@ -9,8 +11,8 @@ My goal was to build a interactive Todo List application built using HTML, CSS, 
 # Features
 
 * To add and display the new tasks on the page. 
-* Mark tasks as complete using a checkboxes. 
-* Completed tasks display with a strike-through.
+* Mark tasks as complete using checkboxes. 
+* Completed tasks display with a strikethrough.
 * To be able to delete individual tasks, along with deleting completed tasks.
 * To check off completed tasks and uncompleted tasks. 
 
@@ -25,7 +27,7 @@ My goal was to build a interactive Todo List application built using HTML, CSS, 
 * Enter a task in the input field.
 *  Click the submit button to add the task.
 * Use the checkbox to mark a task as completed.
-* Completed tasks will display with a strike-through.
+* Completed tasks will display with a strikethrough.
 * Use the delete button to remove an individual task.
 * Use the delete completed button to remove completed tasks.
 
@@ -49,5 +51,4 @@ While building this project, I practiced:
 - `TodoList.js` — Todo List functionality
 
 ## 👩🏾‍💻 Author
-
 **Sushana Thomas**
